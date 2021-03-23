@@ -1,0 +1,4 @@
+# Create a function that counts the number of times the word "dog" occurs in a string. Again ignore edge cases.
+
+def countDog(words):
+    return words.lower().split().count("dog")
