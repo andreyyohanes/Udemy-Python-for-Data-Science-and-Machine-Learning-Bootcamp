@@ -1,7 +1,7 @@
 # Python Crash Course Exercises
 
 | Exercise | Solution |
-| --- | --- |
+| :---: | --- |
 | 1 | [exp.py](https://github.com/andreyyohanes/Udemy-Python-for-Data-Science-and-Machine-Learning-Bootcamp/blob/main/01%20Python%20Crash%20Course/exp.py) |
 | 2 | [str_split.py](https://github.com/andreyyohanes/Udemy-Python-for-Data-Science-and-Machine-Learning-Bootcamp/blob/main/01%20Python%20Crash%20Course/str_split.py) |
 | 3 | [earth_diameter.py](https://github.com/andreyyohanes/Udemy-Python-for-Data-Science-and-Machine-Learning-Bootcamp/blob/main/01%20Python%20Crash%20Course/earth_diameter.py) |
